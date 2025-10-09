@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkahar196" alt="shubhamkahar196" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development, MERN Stack Development, Data Structure and Algorithm**
+- 🌱 I’m currently learning **Backend Development, MERN Stack Development and Devops**
 
 - 💬 Ask me about **Backend Development, MERN Stack Development, Data Structure and Algorithm**
 
