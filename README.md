@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkahar196" alt="shubhamkahar196" /></a> </p>
 
-- 🔭 I’m currently working on [NexDocs – Next-generation document platform]([https://github.com/Shubhamkahar196/Wish-Aura](https://github.com/Shubhamkahar196/NexDocs.git))
+- 🔭 I’m currently working on [NexDocs – Next-generation document platform]([https://github.com/Shubhamkahar196/NexDocs.git])
 
 - 🌱 I’m currently learning **Advanced Node.js, System Design, Docker, GitHub Actions, Jenkins, AWS, Kubernetes, Terraform & CI/CD**
 
